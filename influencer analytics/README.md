@@ -35,4 +35,4 @@ Max memory usage: 300MB
 Support 1000+ records
 ```
 
-#### Adding your comment on the code with to mark bugs and their solutions.
+#### Add your comment on the code to mark bugs and write your solutions explanation.
